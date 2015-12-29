@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7A0F45311C3224C00070DB1C /* OneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A0F45301C3224C00070DB1C /* OneViewController.m */; };
+		7A0F45761C32340F0070DB1C /* NetWorkEngine.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A0F45751C32340F0070DB1C /* NetWorkEngine.m */; };
 		7A8C15D41C3223610010A8AC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A8C15D31C3223610010A8AC /* main.m */; };
 		7A8C15D71C3223610010A8AC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A8C15D61C3223610010A8AC /* AppDelegate.m */; };
 		7A8C15DA1C3223610010A8AC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A8C15D91C3223610010A8AC /* ViewController.m */; };
@@ -19,6 +20,8 @@
 /* Begin PBXFileReference section */
 		7A0F452F1C3224C00070DB1C /* OneViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = OneViewController.h; path = ../OneViewController.h; sourceTree = "<group>"; };
 		7A0F45301C3224C00070DB1C /* OneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = OneViewController.m; path = ../OneViewController.m; sourceTree = "<group>"; };
+		7A0F45741C32340F0070DB1C /* NetWorkEngine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NetWorkEngine.h; sourceTree = "<group>"; };
+		7A0F45751C32340F0070DB1C /* NetWorkEngine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NetWorkEngine.m; sourceTree = "<group>"; };
 		7A8C15CF1C3223610010A8AC /* OneProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OneProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A8C15D31C3223610010A8AC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		7A8C15D51C3223610010A8AC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -67,6 +70,8 @@
 				7A8C15D91C3223610010A8AC /* ViewController.m */,
 				7A0F452F1C3224C00070DB1C /* OneViewController.h */,
 				7A0F45301C3224C00070DB1C /* OneViewController.m */,
+				7A0F45741C32340F0070DB1C /* NetWorkEngine.h */,
+				7A0F45751C32340F0070DB1C /* NetWorkEngine.m */,
 				7A8C15DB1C3223610010A8AC /* Main.storyboard */,
 				7A8C15DE1C3223610010A8AC /* Assets.xcassets */,
 				7A8C15E01C3223610010A8AC /* LaunchScreen.storyboard */,
@@ -157,6 +162,7 @@
 				7A8C15DA1C3223610010A8AC /* ViewController.m in Sources */,
 				7A8C15D71C3223610010A8AC /* AppDelegate.m in Sources */,
 				7A8C15D41C3223610010A8AC /* main.m in Sources */,
+				7A0F45761C32340F0070DB1C /* NetWorkEngine.m in Sources */,
 				7A0F45311C3224C00070DB1C /* OneViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
